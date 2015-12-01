@@ -2,6 +2,7 @@ name: TsuegSite
 favicon: null
 layout_spectrum: 0.12129412847571075
 typography_spectrum: 0.6000442733056843
+title: the Grid Test for Tsueg
 cta:
   domain: null
   bucket: null
