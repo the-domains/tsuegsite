@@ -1,7 +1,7 @@
 name: TsuegSite
 favicon: null
-layout_spectrum: 0.12129412847571075
-typography_spectrum: 0.6000442733056843
+layout_spectrum: 0.49368
+typography_spectrum: 0.75882
 title: the Grid Test for Tsueg
 cta:
   domain: null
@@ -22,8 +22,8 @@ color:
     - '#C8ACAB'
     - '#FBB9BF'
     - '#E376B7'
-  brandStrength: 0.5030037914402783
-  lightness: 0.31677761604078114
-  saturation: 0.5234263511374593
-  rhythmicContrast: 0.5829425374977291
+  brandStrength: 0.5
+  lightness: 0.6875
+  saturation: 0.5
+  rhythmicContrast: 0.75
 purpose: []
